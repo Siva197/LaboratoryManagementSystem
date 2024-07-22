@@ -1,0 +1,248 @@
+->After Successfully running the application we could see the below consoled-based application :-
+
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 3    -> we have chosen option 3 to Manage Researchers
+1. Add Researcher
+2. View Researcher
+3. Update Researcher
+4. Delete Researcher
+Choose an option: 1    -> we have chosen option 1 to Add Researchers
+Enter researcher name: siva
+Enter specialization: microbiology
+Enter email: siva@gmail.com
+Enter phone number: 1234567890
+Researcher added successfully.
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 3
+1. Add Researcher
+2. View Researcher
+3. Update Researcher
+4. Delete Researcher
+Choose an option: 1
+Enter researcher name: sai
+Enter specialization: physics
+Enter email: sai@gmail.com
+Enter phone number: 9959697347
+Researcher added successfully.
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 3
+1. Add Researcher
+2. View Researcher
+3. Update Researcher
+4. Delete Researcher
+Choose an option: 1
+Enter researcher name: teja
+Enter specialization: chemistry
+Enter email: teja@gmail.com
+Enter phone number: 9502858429
+Researcher added successfully.
+
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 3 -> we have chosen option 3 to Manage Researchers
+1. Add Researcher
+2. View Researcher
+3. Update Researcher
+4. Delete Researcher
+Choose an option: 2 -> we have chosen option 2 to view Researchers
+Enter researcher ID to view: 1 
+Researcher ID: 1
+Researcher Name: siva
+Specialization: microbiology
+Email: siva@gmail.com
+Phone Number: 1234567890
+
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 3 -> we have chosen option 3 to Manage Researchers
+1. Add Researcher
+2. View Researcher
+3. Update Researcher
+4. Delete Researcher
+Choose an option: 3 -> we have chosen option 3 to Update Researchers
+Enter researcher ID to update: 3
+Enter new researcher name: tejas
+Enter new specialization: biotech
+Enter new email: tejas@gmail.com
+Enter new phone number: 8309619029
+Researcher updated successfully. 
+
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 3 -> we have chosen option 3 to Manage Researchers
+1. Add Researcher
+2. View Researcher
+3. Update Researcher
+4. Delete Researcher
+Choose an option: 4 -> we have chosen option 4 to Delete Researchers
+Enter researcher ID to delete: 3
+Researcher deleted successfully.
+
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 1 -> we have chosen option 1 to Manage Experiments
+1. Add Experiment
+2. View Experiment
+3. Update Experiment
+4. Delete Experiment
+Choose an option: 1 -> we have chosen option 1 to Add Experiments
+Enter experiment name: copper
+Enter researcher ID: 1
+Enter start date (YYYY-MM-DD): 2003-12-12
+Enter end date (YYYY-MM-DD): 2024-12-12
+Enter status (Planned, In Progress, Completed): Planned
+Experiment added successfully.
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 1
+1. Add Experiment
+2. View Experiment
+3. Update Experiment
+4. Delete Experiment
+Choose an option: 1
+Enter experiment name: methyloxide
+Enter researcher ID: 2
+Enter start date (YYYY-MM-DD): 2003-12-12
+Enter end date (YYYY-MM-DD): 2024-12-12
+Enter status (Planned, In Progress, Completed): Completed
+Experiment added successfully.
+
+
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 1 -> we have chosen option 1 to Manage Experiments
+1. Add Experiment
+2. View Experiment
+3. Update Experiment
+4. Delete Experiment
+Choose an option: 2 -> we have chosen option 2 to view Experiments
+Enter experiment ID to view: 1
+Experiment ID: 1
+Experiment Name: copper
+Researcher ID: 1
+Start Date: 2003-12-12
+End Date: 2024-12-12
+Status: Planned
+
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 1 -> we have chosen option 1 to Manage Experiments
+1. Add Experiment
+2. View Experiment
+3. Update Experiment
+4. Delete Experiment
+Choose an option: 3 -> we have chosen option 3 to Update Experiments
+Enter experiment ID to update: 2
+Enter new experiment name: carbonoxide
+Enter new researcher ID: 2
+Enter new start date (YYYY-MM-DD): 2003-12-12
+Enter new end date (YYYY-MM-DD): 2024-12-12
+Enter new status (Planned, In Progress, Completed): Completed
+Experiment updated successfully.
+
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 1 -> we have chosen option 1 to Manage Experiments
+1. Add Experiment
+2. View Experiment
+3. Update Experiment
+4. Delete Experiment
+Choose an option: 4 -> we have chosen option 4 to delete Experiments
+Enter experiment ID to delete: 2
+Experiment deleted successfully.
+
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 2 -> we have chosen option 2 to Manage Samples
+1. Add Sample
+2. View Sample
+3. Update Sample
+4. Delete Sample
+Choose an option: 1 -> we have chosen option 1 to Add Samples
+Enter sample name: methylalcohol
+Enter experiment ID: 1
+Enter collection date (YYYY-MM-DD): 2003-12-12
+Enter description: sample1
+Sample added successfully.
+
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 2 -> we have chosen option 2 to Manage Samples
+1. Add Sample
+2. View Sample
+3. Update Sample
+4. Delete Sample
+Choose an option: 2 -> we have chosen option 2 to view Samples
+Enter sample ID to view: 1
+Sample ID: 1
+Sample Name: methylalcohol
+Experiment ID: 1
+Collection Date: 2003-12-12
+Description: sample1
+
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 2 -> we have chosen option 2 to Manage Samples
+1. Add Sample
+2. View Sample
+3. Update Sample
+4. Delete Sample
+Choose an option: 3 -> we have chosen option 3 to Update Samples
+Enter sample ID to update: 1
+Enter new sample name: carbonmonoxide
+Enter new experiment ID: 1
+Enter new collection date (YYYY-MM-DD): 2024-12-12
+Enter new description: UpdatedSample
+Sample updated successfully.
+
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 2 -> we have chosen option 2 to Manage Samples
+1. Add Sample
+2. View Sample
+3. Update Sample
+4. Delete Sample
+Choose an option: 4
+Enter sample ID to delete: 1 -> we have chosen option 4 to delete Samples
+Sample deleted successfully.
+
+1. Manage Experiments
+2. Manage Samples
+3. Manage Researchers
+4. Exit
+Choose an option: 4
+
+<--we have successfully tested that all the provided functionalities are working Good.-->
